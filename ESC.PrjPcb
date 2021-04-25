@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AVGSOREN
+DocumentUniqueId=VDGNBEQF
 
 [Document2]
 DocumentPath=ESC.SchDoc
@@ -115,6 +115,10 @@ VariationCount=2
 Variation1=Designator=J2|UniqueId=\HEOMIUBX|Kind=1|AlternatePart= 
 Variation2=Designator=J3|UniqueId=\CCESPMBW|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=outputs\Design Rule Check - ESC.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project_Address1
